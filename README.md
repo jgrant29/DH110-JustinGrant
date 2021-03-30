@@ -1,7 +1,8 @@
 # DH110-JustinGrant
 Week01 demo
 
-<img scr="the_epoch_times_JMG_week1_DH110_github.jpg">
+![the epoch times] (./the_epoch_times_JMG_week1_DH110_github.jpg)
+
 # Justin
 ## Michael
 ### Grant
