@@ -7,7 +7,7 @@ I am the web developer and designer for a company that produces HR material for 
 
 You can Visit HR.my by clicking this link: <a href="https://hr.my" target="_blank" aria-label="External link to HR.my website">Visit HR.my website</a>
 
-<img src="./hr_my_heuristics_eval_dh110_UCLA.jpg" style="width: 100%; border: 5px solid black">
+<img src="./hr_my_heuristics_eval_dh110_UCLA.jpg" style="width: 100%; border: 5px solid #111111">
 
 HR.my is a website for employers to track employee information.  HR.my allows employers to set specific tasks for employees like clocking into work, or requesting vacation time.  The website is free to use, but the web developer does ask for donations, too.  
 
@@ -15,4 +15,4 @@ Overall, the website is minimal in design but needs significant improvement.  I 
 
 Also, I encountered an error when attempting enter a job title for an employee.  The only reason I know an error occured is due to my experience using websites. That is, a spinning wheel, which indicates the website is doing something, popped up but it continues spinning.  See screen shot below: 
 
-<img src="./hr_my_error_handling_dh110_heuristics.png" style="width: 100%; border: 5px solid black">
+<img src="./hr_my_error_handling_dh110_heuristics.png" style="width: 100%; border: 5px solid #111111">
