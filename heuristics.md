@@ -1,4 +1,4 @@
-# DH110 Spring 2021 — Assignment 01
+# Assignment 01 — DH110 Spring 2021
 
 ## by Justin Grant UX Researcher UCLA
 ### Human Resources Heuristics
