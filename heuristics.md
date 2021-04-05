@@ -19,3 +19,7 @@ Also, I encountered an error when attempting enter a job title for an employee. 
 
 <img src="./hr_my_error_handling_dh110_heuristics.png" style="width: 100%; border: 5px solid #111111">
 
+I will evaluate the rest of HR.my through Jakob Nielsen's 10 Usability Heuristics for User Interface Design. 
+
+
+
