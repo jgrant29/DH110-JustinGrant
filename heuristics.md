@@ -1,6 +1,6 @@
 layout: page
 title: "Assignment 01 Heuristics"
-permalink: /ucla/dh110/assignments/heuristics
+permalink: /Justin/ucla/dh110/assignments/heuristics
 
 # Human Resources Heuristics
 ## by Justin Grant — DH110 Spring 2021 — Assignment 01
