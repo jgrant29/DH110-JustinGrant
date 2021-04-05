@@ -1,5 +1,4 @@
 # DH110-JustinGrant
-Week01 demo
 
 <a href="https://www.theepochtimes.com" target="_blank" aria-label="External link to The Epoch Times">The Epoch Times</a>
 
