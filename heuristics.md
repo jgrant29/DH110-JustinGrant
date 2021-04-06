@@ -70,6 +70,8 @@ HR.my is consistent with their words, standards, and actions.  However, this sta
 
 While HR.my is consistent with their wording, the standards of their wording is limited.  Therefore, I would give them a score of 2 because there is little documentations and all I did was wonder what specific words and situations were designated for. 
 
+<img src="./hr_my_document_form_eval_4.png" style="width: 100%; border: 5px solid #111111">
+
 #### 5. Error prevention 
 * Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
 
