@@ -169,7 +169,7 @@ Overall, I would give the visibility of system status a **2**.
 
 For my specific evaluation, the match between system and the real world on shrm.org was on par with the professional world of human resources.  The bookstore  has language and phrases that are easy to understand.  For example, "Employment Law", Labor Law Posters", "HR Topics", "SHRM Books", "Events", "Education", "Certification", and many other pillars and affordances were easy to identify.   
 
-My rating for the match between system and the real world is 4. 
+My rating for the match between system and the real world is **4**. 
 
 #### 3. User control and freedom 
 * Users often choose system functions by mistake.
@@ -207,8 +207,9 @@ Since the error prevention was in two places, and the valid phone number error m
 * Instructions for use of the system should be visible or easily retrievable whenever appropriate. 
 
 **Evaluation**
+For information recognition rather than recall, I think SHRM has too much information to be able to recognize an object, action, or visible options.  I quickly became confused with navigating the website and wasn't sure  where to even begin finding the information I was looking for.  For example, the navigation menu has an unbelievable amount of  links and navigation which is thorough and in-depth, but also overwhelming and hard to navigate.  When I began searching for a product, I couldn't find what I was looking for under the original navigation menu.  Instead, I stumble upon a different link to SHRM's bookstore.  Their e-commerce platform had similar links and sections as the original shrm.org website, but each link presented a completely different list of information. 
 
-
+Since the website required me to recall information, I give this evaluation a **2**.
 
 #### 7. Flexibility and efficiency of use 
 * Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user so that the system can cater to both inexperienced and experienced users. 
@@ -216,7 +217,9 @@ Since the error prevention was in two places, and the valid phone number error m
 
 **Evaluation**
 
+From what I can see on the website, there are no  accelerators for SHRM's Bookstore.  The website is conventional in respect to links, navigation, headers, and text.  The checkout process is also conventional and does not have any accelerators. 
 
+My evaluation of this heuristic is a **4**
 
 #### 8. Aesthetic and minimalist design 
 * Dialogues should not contain information which is irrelevant or rarely needed. 
@@ -224,6 +227,9 @@ Since the error prevention was in two places, and the valid phone number error m
 
 **Evaluation**
 
+The Design of SHRM's bookstore is not aesthetically please not is it a minimalist design.  In my opinion, the website (Book the original SHRM website and the Bookstore) are overwhelming.  For example, there is too much information on the page and the design makes it complicated for a user to find what they are looking for when searching through the website. 
+
+My evaluation of this heuristic is a **2**
 
 #### 9. Help users recognize, diagnose, and recover from errors 
 * Expressed in plain language (no codes)
@@ -232,6 +238,10 @@ Since the error prevention was in two places, and the valid phone number error m
 
 **Evaluation**
 
+Other than the issue mentioned earlier about the checkout process, the errors are easy to recognize and are displayed in plain language with no codes.  
+
+My evaluation of this heuristic is a **4**
+
 
 #### 10. Help and documentation 
 * Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
@@ -239,8 +249,12 @@ Since the error prevention was in two places, and the valid phone number error m
 
 **Evaluation**
 
+SHRM has an FAQ page that details practically anything a user wants to discover.  A user can search through frequently asked questions, search for a specific issue or documentation, and click on an icon with text that represents specific pillars such as  "Refunds". 
 
+My evaluation of this heuristic is a **4**
 
-
-
-
+Severity rating of SHRM's Bookstore
+1) Visibility of system status needs improvement when a user logs in to checkout out.  Rather than a blank screen, the website should have an indicator that something is being processed. 
+2) The design needs to be aesthetically please and represent a minimalist design.  One example is the information located under "WORKPLACE NEWS & TRENDS
+Emerging workplace issues, critical news, trends and analysis" on the homepage of SHRM.org.  The boxes are different colors and have too much information.  Additionally, some of the articles and posts have non-descriptive images that do not represent the article.  The <a href="https://shrm.org/ResourcesAndTools/Pages/HR-Featured-Topics.aspx" target="_blank">HR Resource Hub Pages</a> is an example of images that are not representative of the page or article.  
+3) Recognition rather than recall.  Information is great, but when information is difficult to navigate the 
