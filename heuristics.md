@@ -255,6 +255,6 @@ My evaluation of this heuristic is a **4**
 
 Severity rating of SHRM's Bookstore
 1) Visibility of system status needs improvement when a user logs in to check out out.  Rather than a blank screen, the website should have an indicator that something is being processed. 
-2) The design needs to be aesthetically please and represent a minimalist design.  One example is the information located under "WORKPLACE NEWS & TRENDS
+2) The design needs to be aesthetically pleasing and represent a minimalist design.  One example is the information located under "WORKPLACE NEWS & TRENDS
 Emerging workplace issues, critical news, trends and analysis" on the homepage of SHRM.org.  The boxes are different colors and have too much information.  Additionally, some of the articles and posts have non-descriptive images that do not represent the article.  The <a href="https://shrm.org/ResourcesAndTools/Pages/HR-Featured-Topics.aspx" target="_blank">HR Resource Hub Pages</a> is an example of images that are not representative of the page or article.  
 3) Recognition rather than recall.  Information is great, but when information is difficult to navigate the 
