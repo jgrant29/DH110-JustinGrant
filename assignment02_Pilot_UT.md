@@ -12,12 +12,14 @@ I believe it is a fundamental right for citizens and employees and employers to 
 ## The UT setting (where, portable minimalistic lab), equipment(computer, software)
 The UT setting was virtual.  I used Zoom to conduct my usability testing.  My lab was a small office space and the user being tested was located in a bedroom.  Both of use used desktop computers with iOS software.  The desktop computers where equipped with a native camera and microphone. 
 
-## Report that it is a pilot test (in order to test the setting and the materials).
+## The nature of the usability testing
+This entire test was a pilot test with someone I am familiar with on a daily basis. After the pilot test, my audience would be elderly people in the worplace. 
 
-Describe the process (ex. Background questions, pretest, posttest) and what was measured (ex. Ease of use)
+# Describe the process (ex. Background questions, pretest, posttest) and what was measured (ex. Ease of use)
 
 Include the link to the test materials/script/questionnaire (ex.google form)
 
-Include (or embed) the video link as an evidence of conducting UT
+## Video link (YouTube) conducting UT
+<a href="https://youtu.be/ZGdmwvXz8NE" aria-label="YouTube video of Usability Testing">View Justin Grant's Pilot Usability Testing on YouTube</a>
 
 Reflection: what you learned during the pilot test, what went well and what went not so well; how you want to improve your UT in the future
