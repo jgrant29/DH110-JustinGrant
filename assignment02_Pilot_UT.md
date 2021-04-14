@@ -9,15 +9,19 @@ The rationale beind the UT testing goes beyond Age Discrimination in the workpla
 ## The purpose of the usability testing on DOL.gov to improve the web/app from the user's perspective
 I believe it is a fundamental right for citizens and employees and employers to understand their rights under law.  Yet, for majority of citizens in the United States, and probably the world, know little about their consitutional rights.  That is, I believe a website such as DOL.gov should provide information and advice about laws and regulations that are not cryptic and hard to understand.  Laws, regardless if they are property rights or employment rights, should be written in plain simple english and easily navigatable and accessible for all citizens of a country.  After all, laws are designed to protect citizens and the country from corruption and unfair justice.  
 
-## The UT setting (where, portable minimalistic lab), equipment(computer, software)
+## The UT setting
 The UT setting was virtual.  I used Zoom to conduct my usability testing.  My lab was a small office space and the user being tested was located in a bedroom.  Both of use used desktop computers with iOS software.  The desktop computers where equipped with a native camera and microphone. 
 
 ## The nature of the usability testing
 This entire test was a pilot test with someone I am familiar with on a daily basis. After the pilot test, my audience would be elderly people in the worplace. 
 
-# Describe the process (ex. Background questions, pretest, posttest) and what was measured (ex. Ease of use)
+## The process
+I set up the usability testing with an introduction, informed consent, background questions, pre-test questions, three tasks, post-test questionnaire, system usability scale (SUS), production satisfaction card, and personal questions.  The entire process was conducted on Google Forms. 
 
-Include the link to the test materials/script/questionnaire (ex.google form)
+Majority of the measurements used were ease-of-use, and the funcationality of the websit i.e. how easy was each task for the user?  was the user able to find exact information to make them feel confident about make decisions or knowing their rights as a senior employee in the workplace. 
+
+## Link to form
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdK4nYWdrq4kA8ISP_lasBtCdpsO0xyezH6kVejmhOGbTyiHA/viewform?usp=sf_link">DOL.gov Usability Testing with Google Forms</a>
 
 ## Video link (YouTube) conducting UT
 <a href="https://youtu.be/ZGdmwvXz8NE" aria-label="YouTube video of Usability Testing">View Justin Grant's Pilot Usability Testing on YouTube</a>
