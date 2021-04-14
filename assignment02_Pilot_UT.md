@@ -3,7 +3,7 @@
 ## Introduction of DOL.gov website
 DOL.gov is a website run by the federal government in the United States of America.  DOL is an acronym from the "Department of Labor".  I chose this website because labor laws and regulations not only affect businesses, they affect employees too.  While "Age Discrimination" laws are not always discussed, many seniors and older people experience age discrimination in the workplace.  This fact is one of the reasons why I wanted to perform User Testing on DOL.gov.  
 
-## DOL.gov landing page (image)
+## DOL.gov landing page (image) as of April 13, 2021
 
 <img src="./Screen Shot 2021-04-12 at 12.39.52 PM.png" style="width: 100%; border: 5px solid #111111">
 
