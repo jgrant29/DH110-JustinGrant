@@ -5,9 +5,7 @@ DOL.gov is a website run by the federal government in the United States of Ameri
 
 ## DOL.gov landing page (image)
 
-Screen Shot 2021-04-12 at 12.39.52 PM.png
-
-
+<img src="./Screen Shot 2021-04-12 at 12.39.52 PM.png" style="width: 100%; border: 5px solid #111111">
 
 ## Rationale behind UT with the list of the usability issues
 The rationale behind the UT testing goes beyond Age Discrimination in the workplace.  The majority of labor and employment laws are not written for laypersons, which is why I decided to perform UT on DOL.gov.  For example, "Section 188 of the Workforce Investment Act of 1998" prohibits workplace discrimination.  But the actual law is cryptic in the sense that to understand the law, a layperson would have to pay for an attorney.  If you're interesting in understanding the complexities of employment laws in the United States, <a href="https://www.dol.gov/general/topic/discrimination/agedisc" aria-label="DOL.gov discrimination page">please visit the page on DOL.gov</a>.  The link provided will take you to a web page that gives a general overview of workplace discrimination.  However, you must click on another link, such as the links under "Laws on this Topic" to learn more. One of the links under "Law on this Topic" is listed as "29 USC §621 - Age Discrimination in Employment".  The §621 is where employment laws get complicated for employees and even employers.  Furthermore, this area on DOL.gov takes the user to another website <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section621&num=0&edition=prelim" aria-label="External link example from DOL.gov">here</a>.  The information becomes even more complicated from there.
