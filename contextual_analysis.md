@@ -33,12 +33,9 @@ Users would search the internet for a specific employment law or go directly to 
 The observation method I plan to employ is passive and participatory observation.
 
 ### Interview Guide
-Please find the script [here](https://docs.google.com/document/d/1NRpblkwE5bEmxNI1oIXiO-tKO-Dz5TZ_S6VBnbaXRFA/edit?usp=sharing).
+<a href="https://docs.google.com/document/d/1NRpblkwE5bEmxNI1oIXiO-tKO-Dz5TZ_S6VBnbaXRFA/edit?usp=sharing">Please find my interview script here.</a>
 
-Please find the recordings below: 
-[Part 1](https://drive.google.com/open?id=1Ki-6MIlA_BE4e8eHpJIQWJVxbqmKf5je).
-[Part 2](https://drive.google.com/file/d/1RD72k4Kd0iDspR7sE_tUG5Xy32JIN1pJ/view?usp=sharing).
-[Part 3](https://drive.google.com/open?id=19zQ2kqVG6BdBHI_-dWLe1WKl5Zab7NMK).
+<a href="https://youtu.be/CcUPNteH_Vc">Please click this list to find the contextual inquiry recording.</a>
 
 Please find the transcription [here](https://docs.google.com/document/d/1ytKMT4BO7PxH1Lx1hgVyCloTe6Wd2TtrG2J8VY6HMN4/edit?usp=sharing).
 
