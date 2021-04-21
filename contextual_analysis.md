@@ -37,7 +37,7 @@ The observation method I plan to employ is passive and participatory observation
 
 <a href="https://youtu.be/CcUPNteH_Vc">Please click this list to find the contextual inquiry recording.</a>
 
-Please find the transcription [here](https://docs.google.com/document/d/1ytKMT4BO7PxH1Lx1hgVyCloTe6Wd2TtrG2J8VY6HMN4/edit?usp=sharing).
+<a href="https://docs.google.com/document/d/1DuXiLnsPJ3jD6yGnWMUr8f-WfBNOD2Zi1Zk38sHLA3I/edit?usp=sharing">Please find the contextual interview script here.</a>
 
 ### Insights from the Interview 
 #### How important is it to you to volunteer in a group? 
