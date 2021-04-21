@@ -19,7 +19,7 @@ Depending on the size of a company, a larger organization's solution to satisfy 
 #### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
 The current limitation with satisfying the basic need involved with this activity is that employment laws and regulations change over weeks, months, and years. Not only that, state laws differ from each other and federal law. Combining the correct information for a business professional to discover what to do when workplace harassment occurs or when gender and bathroom issues pop-up, is a daunting task. Also, most employment law is written in legal terms, making it difficult for the average layperson to understand how to comply with state and federal employment law. These limitations make it difficult to find the best digital solution for businesses operating in multiple states. Improving a digital services design to pinpoint the correct affordances with the proper signifiers and optimal service can provide one solution to improving digital technology for Human Resource professionals.
 
-### Step02: Target users 
+### Step 02: Target users 
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise) 
 **Demographic:** proactive business professionals who are responsible for managing one or more employees.
@@ -32,7 +32,7 @@ There are several ways users can engage with employment law, regulations, and co
 #### What would the users do to complete that activity? (e.g., goal, operation, method, action)
 Users would search the internet for specific employment law or go directly to a source like SHRM.org, DOL.gov, or hrsimple.com. Others may refer to an employment or human resources law book.
 
-### Step03: Pick research methods 
+### Step 03: Pick research methods 
 The observation method I plan to employ is passive and participatory observation.
 
 ### Interview Guide
@@ -81,3 +81,6 @@ The interviewee thought the interview was engaging and later on, after the recor
 
 ### Reflection 
 The contextual inquiry with Brad was a rewarding experience. I know Brad personally and believe both of us walked away learning a lot about this contextual inquiry and managing employment law information for business and partnerships. Regarding the initial interview process, the scripted questions helped gather appropriate information to learn about how and what business professionals think about human resources. Initially, the answers to my questions were straightforward. Still, as we started talking about an essential issue in employment law (like Amazon unionization), I began gathering qualitative data about how Brad searches for information regarding the topic at hand. That is, at first, he said he usually searches for information on the internet with Google, but as our conversation began to unfold, I found the answer I was looking for in this contextual inquiry. Brad revealed that he searches for information online with Google, and he seeks out information through podcasts and other news outlets — at least on unique issues like Amazon Unionization. Another area of importance was that Brad looked for transparency over anything. This fact became apparent when I ask him to search a specific website. He became frustrated because he couldn't find the information he was looking for on the particular website. After he stumbled on a hidden paywall, he became skeptical and further frustrated with his search. He compared transparency to Apple News and how Apple shows content that is part of a paywall, but the paywall is not hidden. Overall, my passive and participatory approach to the contextual inquiry went smoothly except for one question. I repeated a question and stated that previously Brad was vague with his answer. I requested that he give a more specific answer. This approach was not passive, and it seemed to develop an awkward moment for both of us. Another aspect of this interview was that I did not discover the initial design challenge described above. Instead, I learned that the user prefers multiple channels to find information about a given subject. Not only that, I realized that the user would rather communicate with a person, or at least her a voice, or receive customized information from another human being — not a digital technology like a website.
+
+### Citation
+I used portions of Marina Souliman interview script and a script for user research on *Information search behavior* (by Daniel Russell). 
