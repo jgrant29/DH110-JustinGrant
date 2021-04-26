@@ -30,7 +30,7 @@ Thankfully, hrsimple.com offers a free one-hour consultation with an attorney.  
 **Problem:**  Getting reimbursed from CFO. 
 
 #### Persona 01 Vivian L. Jackson
-<img src="./john_scott_smith_persona_empathy_map.jpg" style="width: 100%">
+<img src="./vivian_L_jackson_persona_empathy_map.jpg" style="width: 100%">
 
 #### John Scott Smith Journey Map
 <img src="./john_scott_smith_journey_map.jpg" style="width: 100%">
