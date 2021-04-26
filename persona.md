@@ -1,14 +1,14 @@
 # DH110 Assignment 04: Persona+Scenario
 ## Human Resources Professionals: John and Vivian
-### *Created by Justin Grant
+## *Created by Justin Grant
 
-### UX Storytelling
+## UX Storytelling
 
-### Improving HR services
+## Improving HR services
 
-### Persona + Empathy Maps
+## Persona + Empathy Maps
 
-#### Persona 01 John Scott Smith
+### Persona 01 John Scott Smith
 <img src="./john_scott_smith_persona_empathy_map.jpg" style="width: 100%">
 
 #### John Scott Smith Journey Map
@@ -29,7 +29,7 @@ Thankfully, hrsimple.com offers a free one-hour consultation with an attorney.  
 
 **Problem:**  Getting reimbursed from CFO. 
 
-#### Persona 01 Vivian L. Jackson
+#### Persona 02 Vivian L. Jackson
 <img src="./vivian_L_jackson_persona_empathy_map.jpg" style="width: 100%">
 
 #### John Scott Smith Journey Map
