@@ -1,6 +1,6 @@
 # DH110 Assignment 04: Persona+Scenario
 ## Human Resources Professionals: John and Vivian
-## *Created by Justin Grant
+## *Created by Justin Grant*
 
 ## UX Storytelling
 
