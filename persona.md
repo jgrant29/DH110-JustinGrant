@@ -9,3 +9,6 @@
 ### Persona + Empathy Maps
 
 #### Persona 01 John Scott Smith
+<img src="./john_scott_smith_persona_empathy_map.jpg" style="width: 100%">
+
+
