@@ -10,7 +10,7 @@
 
 #### Persona 01 John Scott Smith
 
-<svg width="1725px" height="2092px" viewBox="0 0 1725 2092" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="100%" height="auto" viewBox="0 0 1725 2092" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="John-Smith-Persona" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group">
             <text id="Experience" font-family="Helvetica-Bold, Helvetica" font-size="24" font-weight="bold" letter-spacing="0.180000007" fill="#000000" text-decoration="underline">
