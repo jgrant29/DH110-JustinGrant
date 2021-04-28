@@ -3,11 +3,16 @@
 ## *Created by Justin Grant*
 
 ## UX Storytelling
+The importance of UX storytelling is similar to the philosophy of mind.  What is the mind and what are mental states and feelings are very similar to understand a persona from a UX / Product Design standpoint.  That is, UX storytelling attempts to understand a person who uses a digital product (anything!).  What do they experience? How do they feel?  Which actions do they take when x or y happen?  All of these questions are philosophical in the sense of mind and brain states.  One way to map these questions is through persona development — a hero's journey in film and movies.  For example, what does John Scott Smith do when x or y happens at work?  What does Vivian do to implement a progressive policy at Twitter?  Aside from understanding the intentionality of these two fictional people, a UX story helps a designer or researcher map out the probability of actions, goals, tasks, situations, and other human factors at play.
 
 ## Improving HR services
+I have experience with HR services, so I figured it would be best to try and put myself in a Human Resources Professional's shoes.  My intention is to improve the usability of HR websites which are mostly informational.  I have identified three features such a website can improve on: 
+
+1. Finding answers quickly
+2. The ability to talk with a professional in a short timeframe
+3. Limit the actions required to accomplish goals.
 
 ## Persona + Empathy Maps
-
 ### Persona 01 John Scott Smith
 <img src="./john_scott_smith_persona_empathy_map.jpg" style="width: 100%">
 
