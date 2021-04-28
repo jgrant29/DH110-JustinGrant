@@ -1,6 +1,6 @@
 # DH110 Assignment 04: Persona+Scenario
 ## Human Resources Professionals: John and Vivian
-## *Created by Justin Grant*
+### *Created by Justin Grant*
 
 ## UX Storytelling
 The importance of UX storytelling is similar to the philosophy of mind. The questions "what is a mind, mental states and feelings" are very similar to understanding a persona from a UX / Product Design standpoint. UX storytelling attempts to understand a person who uses a digital product (anything!). What do they experience? How do they feel? Which actions do they take when x or y happen? All of these questions are philosophical in the sense of mind and brain states. One way to map these questions is through persona development — a hero's journey in film and movies. For example, what does John Scott Smith do when x or y happens at work? What does Vivian do to implement a progressive policy at Twitter? Aside from understanding the intentionality of these two fictional people, a UX story helps a designer or researcher map out the probability of actions, goals, tasks, situations, and other human factors at play.
@@ -16,10 +16,10 @@ I have experience with HR services, so I figured it would be best to try and put
 ### Persona 01 John Scott Smith
 <img src="./john_scott_smith_persona_empathy_map.jpg" style="width: 100%">
 
-#### John Scott Smith Journey Map
+### John Scott Smith Journey Map
 <img src="./john_scott_smith_journey_map.jpg" style="width: 100%">
 
-#### John Scott Smith Scenario
+### John Scott Smith Scenario
 **Setting: Workplace injury**
 **Event:** This morning, one of John's employees slipped on wet flooring, hit his head, and broke his hand.  No other employee was around to witness the accident, but the employee who slipped and fell claimed that it is the company's fault for the wet flooring.  After calling an ambulance, John investigated the accident site and found water on the ground, but he couldn't find the water source.  The roof didn't leak it and there were no water lines or leaky pipes.  
 
@@ -34,13 +34,13 @@ Thankfully, hrsimple.com offers a free one-hour consultation with an attorney.  
 
 **Problem:**  Getting reimbursed from CFO. 
 
-#### Persona 02 Vivian L. Jackson
+## Persona 02 Vivian L. Jackson
 <img src="./vivian_L_jackson_persona_empathy_map.jpg" style="width: 100%">
 
-#### John Scott Smith Journey Map
+### Vivian L. Jackson Journey Map
 <img src="./vivian_L_jackson_journey_map.jpg" style="width: 100%">
 
-#### Vivian L. Jackson Scenario
+### Vivian L. Jackson Scenario
 **Setting:** LGBTQ — Locally, Nationally, Globally
 **Event:** Twitter's headquarters has policies and procedures for LGBTQ employees, but other locations throughout America and worldwide are slow to implement Twitter's policies.  As of last week, Twitter has had 25 complaints about transgender bathrooms.  Some of the complaints are from the transgender community, while others of from female employees were complaining about transgender males using the women's restrooms.  
 
