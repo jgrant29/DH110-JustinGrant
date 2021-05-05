@@ -47,7 +47,7 @@ Since my test was simple, the tester was able to successfully complete her task.
 
 #### video of the tester’s walkthrough pathway
 
-[![Watch the video](https://www.youtube.com/embed/CLFTRA0hBa4)](https://www.youtube.com/embed/CLFTRA0hBa4)
+[![Watch the video](https://img.youtube.com/vi/CLFTRA0hBa4/maxresdefault.jpg)](https://www.youtube.com/embed/CLFTRA0hBa4)
 
 
 ### Reflection
