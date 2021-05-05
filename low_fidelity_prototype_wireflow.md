@@ -6,6 +6,9 @@ This project is focused on user research for human resources professionals.  In 
  
 Regarding my personas, I did not focus on seniors with at least  one person.  Vivian is 35 and works for Twitter.  The other persona is John who is 49.  He has about 15 years before he is classified as a senior.  So, for this  project, I will generalize my wireframes and wireflow to John and Vivian as senior citizens who are human resources professional.  
 
+The purpose of this low-fidelity prototype is to envision what a user persona goes through.  It puts the UX Designer and Researcher in the  users shoes and attempts to weed out any potential problems or bottlenecks.  Most  importantly, I think low-fidelity prototyping helps the  UX person / team discover potential product design issues or solutions that were not  yet thought of or invented.  Overall, this process helps the person / team to apply the abstract level of thinking about  user research, personas, and contextual inquires into a tangible product.  Essentially, it’s the blueprint of the actual product.  
+
+
 ### Persona01 John: Wireflow “John”
 John is an almost-retired HR professionals how needs to find information about a workplace accident in a short timeframe.  An employee slipped and fell on a wet surface.  John called and ambulance because the employee had  severe injuries.  While John usually looks up information in a physical book, his book did not have  anything on workplace injuries, so he took to the internet to find an attorney to contact.  John found himself on hrsimple.com.  From this website, he set up a time to talk with an attorney. 
 
@@ -39,6 +42,18 @@ Vivian is an older Senior HR professional who deals with a lot of young people a
 #### Wireframe / Wireflow on Sketch 
 <img src="./random sketch.png" style="width: 100%">
 
-The purpose of this low-fidelity prototype is to envision what a user persona goes through.  It puts the UX Designer and Researcher in the  users shoes and attempts to weed out any potential problems or bottlenecks.  Most  importantly, I think low-fidelity prototyping helps the  UX person / team discover potential product design issues or solutions that were not  yet thought of or invented.  Overall, this process helps the person / team to apply the abstract level of thinking about  user research, personas, and contextual inquires into a tangible product.  Essentially, it’s the blueprint of the actual product.  
+### Testing the wireflow with other person 
+
+#### tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks 
+
+#### pictures/video of the tester’s walkthrough pathway
+
+### Reflection
+
+#### Summary of the process, what went smoothly or differently from your expectation
+
+#### What you would change or design differently based on the feedback you got from the prototype testing. 
+
+For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
 
 <a href="https://sketch.cloud/s/44cb3aec-bfb4-4b32-9fc8-0e9faf22dc02" target="_blank">Click here to view interactive wireframe and wireflow on Sketch</a>
