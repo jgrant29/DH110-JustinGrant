@@ -43,8 +43,9 @@ Vivian is an older Senior HR professional who deals with a lot of young people a
 <img src="./random sketch.png" style="width: 100%">
 
 ### Testing the wireflow with other person 
+Since my test was simple, the tester was able to successfully complete her task.  The made aware a few frustrations about the detailed length of the process while performing one of the tasks (John's Task).  Still, afterward she retracted her remark that the wireflow was intuitive and helpful to understand the process for John. 
 
-#### tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks 
+Video: https://www.youtube.com/embed/CLFTRA0hBa4
 
 #### pictures/video of the tester’s walkthrough pathway
 
