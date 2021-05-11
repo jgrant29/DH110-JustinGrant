@@ -10,7 +10,7 @@ in the screen design, I created the cart and search icon.  The hamburger icon is
 ### Impression test
 The user remarked on the simplicity of the mobile website.  The navigation was easy to follow but the bottom buttons are too small for a senior user (any users to be honest). 
 
-https://user-images.githubusercontent.com/8107598/117897723-3b8f5180-b278-11eb-84e0-0cb00bd2ce14.mov
+<a href="https://user-images.githubusercontent.com/8107598/117897723-3b8f5180-b278-11eb-84e0-0cb00bd2ce14.mov">Watch User Impression Test on Github</a>
 
 ### Accessibility (color-contrast) check
 
