@@ -36,7 +36,7 @@ Foreground color #24A649 with Background Color #FFFFFF fails the WCAG AA and AAA
 ##### Third Color Contrast Ratio: 3.16:1 
 <a href="https://webaim.org/resources/contrastchecker/?fcolor=24A649&bcolor=FFFFFF">View Third Color Contrast Ration on webaim.org</a>
 
-#### Design System
+### Design System
 
 I used Helvetica font throughout the entire design.   Header 1 at 14px and Header 2 at 12px.  Color scheme, as described above, on the draft prototype unit is Foreground #000000 and Background #FFFFFF.  The first  foreground color selection (red) #A62424 with (white) background #FFFFFF.  The second color scheme pink-ish? foreground #ECAAAA with black background #000000.  As for the third color scheme, green foreground #24A649 with white background #FFFFFF. 
 
