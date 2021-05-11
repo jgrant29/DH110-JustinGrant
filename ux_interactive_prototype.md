@@ -1,3 +1,6 @@
+# UX Interactive Prototype
+## DH110, Spring 2021, UCLA, by Justin Grant
+
 ### Description of project 
 This project service to increase the flow of hrsimple.com.  My prototying tool of choice is Sketch.  
 The process of this project will help improve the functionality of the hrsimple.com's information services for all age groups and especially for seniors with proximity theories.  The main task for this project is to re-design majority of the web pages  with specificity  related to the flow of users entering the blog page and continue through to a goal.  The goal I am aiming for to expose users to a complete list of an online book for federal laws.  The task the prototype demonstrates is simple — a user enters the Federal book, selects a topic, reads the information, and has the tool necessary to navigate large amount of information. 
