@@ -14,20 +14,23 @@ https://user-images.githubusercontent.com/8107598/117897723-3b8f5180-b278-11eb-8
 
 ### Accessibility (color-contrast) check
 
-#### First color: Foreground color #A62424 with Background Color #FFFFFF passed by WCAG AA and WCAG AAA on Normal Text, Large Text and Graphical Objects and User Interface Components.  
+#### First Color
+Foreground color #A62424 with Background Color #FFFFFF passed by WCAG AA and WCAG AAA on Normal Text, Large Text and Graphical Objects and User Interface Components.  
 
-##### Color Contrast Ratio: 7.24:1
+##### First Color Contrast Ratio: 7.24:1
 <a href="https://webaim.org/resources/contrastchecker/?fcolor=A62424&bcolor=FFFFFF">View First Color Contrast Ration on webaim.org</a>
 
 
-#### Second Color: Foreground color #ECAAAA with Background Color #000000 passed by WCAG AA and WCAG AAA on Normal Text, Large Text and Graphical Objects and User Interface Components.  
+#### Second Color
+Foreground color #ECAAAA with Background Color #000000 passed by WCAG AA and WCAG AAA on Normal Text, Large Text and Graphical Objects and User Interface Components.  
 
-##### Color Contrast Ratio: 10.89:1 
+##### Second Color Contrast Ratio: 10.89:1 
 <a href="https://webaim.org/resources/contrastchecker/?fcolor=ECAAAA&bcolor=000000">View Second Color Contrast Ration on webaim.org</a>
 
-#### Third Color: Foreground color #24A649 with Background Color #FFFFFF fails the WCAG AA and AAA on Normal Text; passed WCAG AA on Large Text but failed WCAG AAA; passed Graphical Objects and User Interface Components.  
+#### Third Color
+Foreground color #24A649 with Background Color #FFFFFF fails the WCAG AA and AAA on Normal Text; passed WCAG AA on Large Text but failed WCAG AAA; passed Graphical Objects and User Interface Components.  
 
-##### Color Contrast Ratio: 3.16:1 
+##### Third Color Contrast Ratio: 3.16:1 
 <a href="https://webaim.org/resources/contrastchecker/?fcolor=24A649&bcolor=FFFFFF">View Third Color Contrast Ration on webaim.org</a>
 
 #### Design System
