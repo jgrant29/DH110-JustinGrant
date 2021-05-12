@@ -11,7 +11,7 @@ The process of this project will help improve the functionality of the hrsimple.
 in the screen design, I created the cart and search icon.  The hamburger icon is from material ui components.  The social media images is a list with a picture.  The “Menu” button was also created by me.  At the bottom of the secondary screen (chapter), there is a fixed footer with navigation tabs to move from one chapter to the next.  The button icons are arrows with text.  
 
 ### Impression test
-The user remarked on the simplicity of the mobile website.  The navigation was easy to follow but the bottom buttons are too small for a senior user (any users to be honest). 
+The user remarked on the simplicity of the mobile website.  The navigation was easy to follow but the bottom buttons are too small for a senior user (any users to be honest). My next prototype will focus on improving the button navigation buttons. 
 
 <a href="https://user-images.githubusercontent.com/8107598/117897723-3b8f5180-b278-11eb-84e0-0cb00bd2ce14.mov">Watch User Impression Test on Github</a>
 
