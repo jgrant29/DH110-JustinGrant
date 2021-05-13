@@ -15,6 +15,11 @@ The user remarked on the simplicity of the mobile website.  The navigation was e
 
 <a href="https://user-images.githubusercontent.com/8107598/117897723-3b8f5180-b278-11eb-84e0-0cb00bd2ce14.mov">Watch User Impression Test on Github</a>
 
+#### Impression Test from 5.12.2021:
+"I see a lot of text, as this is the text for a manual. 2. It looks like this is a table of contents for the Federal Human Resources Manual where each chapter is listed separately to access what you want more efficiently. 3. It seems that I can find information about the employee related laws that could affect business operations. 4. I think that this prototype looks very similar to professionally made applications, as the text, color scheme, and layout all mimic professional apps. I like how the table of contents page is not too cluttered, but I think that the pages are very long and can be shortened (not sure if this is just a product of the Sketch website though). Another thing I would enhance is the Menu button: I think it could be larger and potentially moved to the top instead of the three lines."
+
+I learned a lot from the impression test.  Most reviewers claimed that the website is professional and legitamite.  However, the signifiers (buttons, and icons) were either too small or not in the correct places.  For the next phase, I need to work on the placement of the navigation (back button, social share links, menu button, and navigation at the footer)
+
 ### Accessibility (color-contrast) check
 
 #### First Color
