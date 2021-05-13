@@ -5,7 +5,7 @@
 This project serves to increase the flow of hrsimple.com.  My prototyping tool of choice is Sketch.  
 This project will help improve the functionality of the hrsimple.com's information services for all age groups and especially for seniors with proximity theories.  This project's main task is to re-design most of the web pages with specificity related to the flow of users entering the blog page and continue through to a goal.  I aim to expose users to a complete list of online books for federal laws.  The task the prototype demonstrates is simple — a user enters the Federal book, selects a topic, reads the information, and has the tool necessary to navigate a large amount of data. 
 
-<a href="https://www.sketch.com/s/44cb3aec-bfb4-4b32-9fc8-0e9faf22dc02/p/1669e511-2032-4bcf-aec9-d674bc34cfbf">View UX Interactive Prototype on Sketch</a>
+<a href="https://www.sketch.com/s/44cb3aec-bfb4-4b32-9fc8-0e9faf22dc02/p/ff9ba821-07bc-461b-9cf6-fee6136455b7">View UX Interactive Prototype on Sketch</a>
 
 ### Screen design
 in the screen design, I created the cart and search icon.  The hamburger icon is from material UI components.  The social media image is a list with a picture.  I also created the "Menu" button.  At the bottom of the secondary screen (chapter), there is a fixed footer with navigation tabs to move from one chapter to the next.  The button icons are arrows with text.  
