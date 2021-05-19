@@ -64,8 +64,9 @@ When interacting with the interactive prototype on Sketch, I would like you to c
 <img width="100%" alt="Screen Shot 2021-05-19 at 12 56 38 PM" src="https://user-images.githubusercontent.com/8107598/118879273-5c256000-b8a5-11eb-8f4b-e5d486a3ba39.png">
 
 ### Cognitive walkthrough video performed by Justin Grant: 
+<a href="https://user-images.githubusercontent.com/8107598/118877191-fafc8d00-b8a2-11eb-93aa-60ac32ecf3ed.mov">Click here to watch my cognitive walkthrough video.</a>
 
-https://user-images.githubusercontent.com/8107598/118877191-fafc8d00-b8a2-11eb-93aa-60ac32ecf3ed.mov
+
 
 ### Reflection
 This project was eye-opening.  I found it frustrating trying to mimic my high-fidelity prototype and an actual website.  However, from this prototyping project, I implemented a navigation feature of Users with a product behind the paywall of hrsimple.com.  See the below image for an example. 
