@@ -22,8 +22,9 @@ I learned a lot from the impression test.  Most reviewers claimed that the websi
 ### Accessibility (color-contrast) check
 <img width="100%" alt="Screen Shot 2021-05-19 at 12 35 40 PM" src="https://user-images.githubusercontent.com/8107598/118877361-36975700-b8a3-11eb-8235-757f972e7882.png">
 
-##### First Color Contrast Ratio: 13.5:1
+#### First Color Contrast Ratio: 13.5:1
 Foreground color #590B0B with Background Color #F9F9F9 passed by WCAG AA and WCAG AAA on Normal Text, Large Text and Graphical Objects, and User Interface Components.
+
 <a href="https://webaim.org/resources/contrastchecker/?fcolor=590B0B&bcolor=F9F9F9">View Second Color Contrast Ratio on webaim.org</a>
 
 
@@ -51,13 +52,19 @@ When interacting with the interactive prototype on Sketch, I would like you to c
 
 ### Wireflow (Diagram)
 #### First Goal — Find Employment Law "Background Checks"
+
 <img width="100%" alt="Screen Shot 2021-05-19 at 12 48 30 PM" src="https://user-images.githubusercontent.com/8107598/118879247-5465bb80-b8a5-11eb-8556-6fe6d292523e.png">
+
 #### Second Goal — Contact an Attorney through Zoom
+
 <img width="100%" alt="Screen Shot 2021-05-19 at 12 54 16 PM" src="https://user-images.githubusercontent.com/8107598/118879262-592a6f80-b8a5-11eb-82ca-4d13b2e4f141.png">
+
 #### Third Goal — Locate Downloadable Form for Workplace Injury
+
 <img width="100%" alt="Screen Shot 2021-05-19 at 12 56 38 PM" src="https://user-images.githubusercontent.com/8107598/118879273-5c256000-b8a5-11eb-8f4b-e5d486a3ba39.png">
 
 ### Cognitive walkthrough video performed by Justin Grant: 
+
 https://user-images.githubusercontent.com/8107598/118877191-fafc8d00-b8a2-11eb-93aa-60ac32ecf3ed.mov
 
 ### Reflection
