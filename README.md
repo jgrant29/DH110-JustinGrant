@@ -12,7 +12,7 @@ hrsimple.com does not have a mobile application, so I wanted to create one for m
 
 <table>
   <tr>
-    <td><img width="50%" alt="Screen Shot 2021-05-19 at 12 35 40 PM" src="https://user-images.githubusercontent.com/8107598/118877361-36975700-b8a3-11eb-8235-757f972e7882.png"></td>
-    <td><img width="50%" alt="Screen Shot 2021-05-19 at 12 48 30 PM" src="https://user-images.githubusercontent.com/8107598/118879247-5465bb80-b8a5-11eb-8556-6fe6d292523e.png"></td>
+    <td width="50%"><img alt="Screen Shot 2021-05-19 at 12 35 40 PM" src="https://user-images.githubusercontent.com/8107598/118877361-36975700-b8a3-11eb-8235-757f972e7882.png"></td>
+    <td width="50%"><img alt="Screen Shot 2021-05-19 at 12 48 30 PM" src="https://user-images.githubusercontent.com/8107598/118879247-5465bb80-b8a5-11eb-8556-6fe6d292523e.png"></td>
   </tr>
 </table>
