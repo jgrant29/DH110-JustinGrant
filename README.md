@@ -10,6 +10,7 @@ hrsimple.com does not have a mobile application, so I wanted to create one for m
 ### Accessibility (color-contrast) check
 <img width="100%" alt="Screen Shot 2021-05-19 at 12 35 40 PM" src="https://user-images.githubusercontent.com/8107598/118877361-36975700-b8a3-11eb-8235-757f972e7882.png">
 
+### Two Images Table Accessibility (color-contrast) check
 <table>
   <tr>
     <td width="50%"><img alt="Screen Shot 2021-05-19 at 12 35 40 PM" src="https://user-images.githubusercontent.com/8107598/118877361-36975700-b8a3-11eb-8235-757f972e7882.png"></td>
