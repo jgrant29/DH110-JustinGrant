@@ -76,3 +76,13 @@ This project was eye-opening.  I found it frustrating trying to mimic my high-fi
 Another realization I found during this process was saving time by creating one symbol or object to be replicated across the entire prototype.  I discovered my lack of organization and streamlining features throughout the whole prototype when I wanted to change the color of a button.  With one or two artboards, changing color is easy, but as soon as I started designing over twenty artboards, it was necessary to develop a button symbol to use everywhere.  
 
 Putting myself in a customer's shoes is so helpful.  While I'll never know what it's like to be another user, I can sympathize with user frustration or ease-of-use by designing high-fidelity prototypes and mapping each prototype out through cognitive walkthroughs.  Overall, I will continue utilizing prototyping software to hash out ideas.  
+
+Evaluation and modifications
+<img width="909" alt="contatct attorney" src="https://user-images.githubusercontent.com/8107598/120243708-32612700-c21d-11eb-97f2-40fd70a4c93f.png">
+<img width="427" alt="forms" src="https://user-images.githubusercontent.com/8107598/120243710-342aea80-c21d-11eb-9bb0-35551c984aec.png">
+<img width="430" alt="resources" src="https://user-images.githubusercontent.com/8107598/120243711-34c38100-c21d-11eb-84d6-496cd6c4e2b6.png">
+<img width="432" alt="menu_dashboard" src="https://user-images.githubusercontent.com/8107598/120243712-34c38100-c21d-11eb-8566-f04d647e9621.png">
+<img width="923" alt="search" src="https://user-images.githubusercontent.com/8107598/120243713-355c1780-c21d-11eb-847d-55862fa1178b.png">
+
+
+
